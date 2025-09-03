@@ -1,0 +1,20 @@
+{
+  "name": "heroe-classificator",
+  "version": "1.0.0",
+  "description": "Programing Logic challenge ",
+  "homepage": "https://github.com/TheoOdawara/Classificador-de-Nivel-de-heroi#readme",
+  "bugs": {
+    "url": "https://github.com/TheoOdawara/Classificador-de-Nivel-de-heroi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheoOdawara/Classificador-de-Nivel-de-heroi.git"
+  },
+  "license": "ISC",
+  "author": "Theo Odawara",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "type": "module"
+}
